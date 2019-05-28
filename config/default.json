@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://oleh123:oleh123@devin-imjlj.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://oleh123:oleh123@devin-imjlj.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "verysecrettoken"
 }
